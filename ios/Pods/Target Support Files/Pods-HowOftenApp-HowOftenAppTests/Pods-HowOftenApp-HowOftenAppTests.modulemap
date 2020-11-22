@@ -1,0 +1,6 @@
+module Pods_HowOftenApp_HowOftenAppTests {
+  umbrella header "Pods-HowOftenApp-HowOftenAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
